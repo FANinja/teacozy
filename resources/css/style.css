@@ -24,7 +24,7 @@ body {
 
 .headerlogo img {
   height: 50px;
-  width: 35%;
+  width: 28%;
   margin-left: 10px;
   margin-top: 9px;
 }
@@ -34,6 +34,7 @@ body {
   align-items: center;
   justify-content: flex-end;
   color: white;
+  text-align: right;
 }
 
 a {
@@ -93,6 +94,10 @@ a {
   align-items: center;
 }
 
+.location h3 {
+  padding: 20px 0px;
+}
+
 .locationoption {
   width: 1200px;
   opacity: 1;
@@ -113,6 +118,10 @@ a {
 
 .teacozy {
   height:200px;
+}
+
+.teacozy h2 {
+  padding: 20px 0px;
 }
 
 div {
